@@ -1,7 +1,7 @@
 body {
 font-family: Arial, sans-serif;
 background: #99ccff;
-margin-left: 20px;
+margin-left: 20px
 }
 form {
 width:500px;
@@ -28,4 +28,5 @@ cursor: pointer;
 button:hover {
 background: #ff99ff;
 color: #00ff00;
+
 }
